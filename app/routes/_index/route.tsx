@@ -3,7 +3,7 @@ import { Button } from "~/components/shadcn/ui/button";
 
 export const meta: MetaFunction = () => {
   return [
-    { title: "New Remix App" },
+    { title: "Raavanan 2.0" },
     { name: "description", content: "Welcome to Remix!" },
   ];
 };
